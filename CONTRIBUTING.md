@@ -20,6 +20,7 @@ flowchart LR
     end
 
     C -->|同步更新| B
+````````````
 開發步驟
 1. 建立功能分支
 git checkout dev
