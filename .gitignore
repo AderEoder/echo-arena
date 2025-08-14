@@ -1,0 +1,59 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+sysinfo.txt
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Crash reports
+CrashReports/
+
+# Addressables
+/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.obj
+
+# Asset Store tools
+AssetStoreTools*
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.bundle
+*.ipa
+
+# Unity Cloud Build
+/[Uu]nity[Cc]loud/
+
+# Burst Compiler cache
+[Bb]urstCache/
